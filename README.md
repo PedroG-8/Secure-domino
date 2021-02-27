@@ -1,39 +1,19 @@
 # secure-domino
 
-UA Security 4th Year's MIECT Subject
+## Secure multi-player online domino game in Python
 
-#---------------------------------
 
-# Security Domino Project 2020
-This is a project made for Security class @DETI
+Final grade: 15/20
 
-## Server
+Developed with:
 
-## Client
-There are some inputs that you can uncomment for debugging purpose
-## Usage
-Start the server to wait for clients
->python3 Server.py 
+[André Almeida](https://github.com/Almeida-a)
 
-Start clients running this command for each client
->python3 client.py
- 
-## Scripts
-To use the scripts you need to  souce the script into your shell
->source script.sh
+[Pedro Silva](https://github.com/pedromsilva99)
 
-Then you can use the scripts listed:
-To start a client:
-> c
+[Rita Amante](https://github.com/rita-amante)
 
-To start the server:
-> s
+Professor: André Zúquete
 
-To start one server and multiple clients:
->run_all 
-
-or 
->run_all -num_clients=x -max_clients=y
-
-the default value of x and y is 4
+Initial game code adapted from [Filipe Vale](https://github.com/FilipeMiguelVale) 
     
